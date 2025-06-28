@@ -1,9 +1,0 @@
-com/example/messageservice/service/LocalizationService.class
-com/example/messageservice/entity/Country.class
-com/example/messageservice/entity/Location.class
-com/example/messageservice/service/MessageSender.class
-com/example/messageservice/service/GeoService.class
-com/example/Main.class
-com/example/messageservice/service/MessageSenderImpl.class
-com/example/messageservice/service/GeoServiceImpl.class
-com/example/messageservice/service/LocalizationServiceImpl.class
